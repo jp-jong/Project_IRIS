@@ -1,1 +1,2 @@
 # Project_Iris
+This repository contains the scripts, presentations, and some miscellaneous data that I did to conduct an analysis on the Iris dataset. I downloaded the Iris dataset directly from R. Machine learning, feature extraction, and parameter optimization was conducted in python. Main reference material to reproduce the results in this analysis is from here: https://www.kaggle.com/code/lukasaebi/iris-classification-100-without-id
